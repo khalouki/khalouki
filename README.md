@@ -1,6 +1,6 @@
 Abdelkhalk Essaid
 Full Stack Developer | Data Science Student<br>
-📍 Specializing in Spring Boot & React<br>
+📍 Specializing in Flask Spring boot  & React<br>
 📊 Exploring Data Science & Machine Learning<br>
 
 
